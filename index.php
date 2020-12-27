@@ -1,3 +1,3 @@
 <?php
 
-phpinfo();
+echo date("d/M/y HH:mm:ss");
